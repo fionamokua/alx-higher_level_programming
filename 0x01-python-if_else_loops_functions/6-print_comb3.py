@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/python3
 # Author - Fiona Mokua
 
 for digit1 in range(0, 10):
